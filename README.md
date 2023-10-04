@@ -7,20 +7,20 @@ I am a student web developer, I am currently in a two years cursus to become a w
 
 ## Skills
 <div style="display: flex; justify-content: space-around; align-items: center;">
-    <img src="icon/fig-html5.svg" alt="HTML">
-    <img src="icon/fig-css3.svg" alt="CSS">
-    <img src="icon/fig-javascript.svg" alt="JavaScript">
-    <img src="icon/fig-php.svg" alt="PHP">
-    <img src="icon/fig-reactjs.svg" alt="Git">
-    <img src="icon/fig-nodejs.svg" alt="Git">
-    <img src="icon/fig-jquery2.svg" alt="Git">
-    <img src="icon/fig-mysql.svg" alt="MySQL">
-    <img src="icon/fig-inteliji.svg" alt="Git">
-    <img src="icon/fig-tailwindscss.svg" alt="GitHub">
-    <img src="icon/fig-bootstrap.svg" alt="Bootstrap">
-    <img src="icon/fig-photoshop.svg" alt="Git">
-    <img src="icon/fig-illustrator.svg" alt="Git">
-    <img src="icon/fig-figma.svg" alt="Git">
+    <img src="icon/fig-html5.svg" alt="HTML" style="padding-left: 2px; padding-right: 2px;">
+    <img src="icon/fig-css3.svg" alt="CSS" style="padding-left: 2px; padding-right: 2px;">
+    <img src="icon/fig-javascript.svg" alt="JavaScript" style="padding-left: 2px; padding-right: 2px;">
+    <img src="icon/fig-php.svg" alt="PHP" style="padding-left: 2px; padding-right: 2px;">
+    <img src="icon/fig-reactjs.svg" alt="Git" style="padding-left: 2px; padding-right: 2px;">
+    <img src="icon/fig-nodejs.svg" alt="Git" style="padding-left: 2px; padding-right: 2px;">
+    <img src="icon/fig-jquery2.svg" alt="Git" style="padding-left: 2px; padding-right: 2px;">
+    <img src="icon/fig-mysql.svg" alt="MySQL" style="padding-left: 2px; padding-right: 2px;">
+    <img src="icon/fig-inteliji.svg" alt="Git" style="padding-left: 2px; padding-right: 2px;">
+    <img src="icon/fig-tailwindscss.svg" alt="GitHub" style="padding-left: 2px; padding-right: 2px;">
+    <img src="icon/fig-bootstrap.svg" alt="Bootstrap" style="padding-left: 2px; padding-right: 2px;">
+    <img src="icon/fig-photoshop.svg" alt="Git" style="padding-left: 2px; padding-right: 2px;">
+    <img src="icon/fig-illustrator.svg" alt="Git" style="padding-left: 2px; padding-right: 2px;">
+    <img src="icon/fig-figma.svg" alt="Git" style="padding-left: 2px; padding-right: 2px;">
 </div>
 
 <div style="border-bottom: 1px solid #ac1de4; width: 100%; padding-top: 30px;"></div>
