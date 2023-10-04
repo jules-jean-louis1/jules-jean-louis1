@@ -1,17 +1,5 @@
 ## Hi there, I'am Jules👋
-<div style="border-bottom: 1px solid #ac1de4; width: 100%;"></div>
 
-<style>
-    h3 {
-        color: #ac1de4;
-    }
-    h4 {
-        color: #ac1de4;
-    }
-    h2 {
-        color: #ac1de4;
-    }
-</style>
 ## About me
 I am a student web developer, I am currently in a two years cursus to become a web developer. I love learning new things and I am always looking for new challenges. I am currently learning React and I am looking for an internship in web development.
 
