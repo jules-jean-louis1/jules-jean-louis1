@@ -1,7 +1,7 @@
 ## Hi there, I'am Jules👋
 
 ## About me
-I am a student web developer, I am currently in a two years cursus to become a web developer. I love learning new things and I am always looking for new challenges. I am currently learning React and I am looking for an internship in web development.
+I am a student web developer currently enrolled in a two-year web development program. I have a strong passion for learning and continually seek out new challenges. Currently, I am focused on learning React, and I am actively seeking an internship opportunity in the field of web development.
 
 <div style="border-bottom: 1px solid #ac1de4; width: 100%;"></div>
 
